@@ -120,7 +120,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Danil Chuvilin - [@Danchouvzv](https://github.com/Danchouvzv)
+Daniyal Talgatov - [@Danchouvzv](https://github.com/Danchouvzv)
 
 Project Link: [https://github.com/Danchouvzv/EmoPodTech](https://github.com/Danchouvzv/EmoPodTech)
 
