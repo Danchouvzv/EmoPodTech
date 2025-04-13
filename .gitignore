@@ -1,0 +1,60 @@
+# Arduino IDE
+*.elf
+*.bin
+*.hex
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.eep
+*.lss
+*.sym
+*.map
+*.lst
+*.o
+*.d
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Build
+build/
+out/
+
+# Dependencies
+lib/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp 
